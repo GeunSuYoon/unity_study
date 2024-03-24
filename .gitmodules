@@ -1,0 +1,15 @@
+[submodule "unity_book_study/book"]
+	path = unity_book_study/book
+	url = https://github.com/GeunSuYoon/unity_book_study.git
+[submodule "unity_book_study/code/chapter2"]
+	path = unity_book_study/code/chapter2
+	url = https://github.com/GeunSuYoon/unity_book_code_chapter2.git
+[submodule "unity_book_study/code/chapter3"]
+	path = unity_book_study/code/chapter3
+	url = https://github.com/GeunSuYoon/unity_book_code_chapter3.git
+[submodule "unity_book_study/code/chapter4"]
+	path = unity_book_study/code/chapter4
+	url = https://github.com/GeunSuYoon/unity_book_code_chapter4.git
+[submodule "unity_book_study/code/chapter5"]
+	path = unity_book_study/code/chapter5
+	url = https://github.com/GeunSuYoon/unity_book_code_chapter5.git
